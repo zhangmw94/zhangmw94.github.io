@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-14T15:38:05.436Z</updated>
+  <updated>2018-02-16T01:12:38.283Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新年快乐</title>
+    <link href="http://yoursite.com/2018/02/16/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    <id>http://yoursite.com/2018/02/16/新年快乐/</id>
+    <published>2018-02-16T01:06:35.000Z</published>
+    <updated>2018-02-16T01:12:38.283Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="新年快乐"><a href="#新年快乐" class="headerlink" title="新年快乐"></a>新年快乐</h1><p>  这是第一篇文章，新年快乐！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;新年快乐&quot;&gt;&lt;a href=&quot;#新年快乐&quot; class=&quot;headerlink&quot; title=&quot;新年快乐&quot;&gt;&lt;/a&gt;新年快乐&lt;/h1&gt;&lt;p&gt;  这是第一篇文章，新年快乐！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
